@@ -1,7 +1,7 @@
 # blur-detection-OpenCV  
 
 ## prerequisite required  
-opencv
+opencv  
 imutils  
 
 ## How to install it  
