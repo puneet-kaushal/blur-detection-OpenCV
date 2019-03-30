@@ -1,4 +1,5 @@
 # blur-detection-OpenCV  
+![opencv](https://user-images.githubusercontent.com/47202519/55272213-0cf3ce00-52df-11e9-8399-2826c7286887.jpg)
 
 ## prerequisite required  
 opencv  
